@@ -20,7 +20,7 @@
 project = 'keyes WiKi'
 copyright = 'keyes , WiKi'
 author = 'keyes WiKi'
-copyright = 'Shenzhen keyes Technology Co., Ltd'
+copyright = 'Shenzhen keyes DIY robot Co., Ltd'
 
 root_doc = "index"
 master_doc = "index"
